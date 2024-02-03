@@ -1,14 +1,12 @@
 # BT-VoiceControl_Robot_Arduino
  VoiceControl Robot Arduino---Make a Voice controlled robot by using mobile bluetooth as a Remote control
 
- ===========================================
-=      Bluetooth Voice Control Robot      =
-=                                         =
-=      by Shuvo Karmaker, Roboticist,     =
-=      SSK Innovation Lab - SSKIL         =
-=                                         =
-=      Contact: sskshuvo.cse@gmail.com    =
-===========================================
+
+     # Bluetooth Voice Control Robot
+     # by Shuvo Karmaker, Roboticist,
+     # SSK Innovation Lab - SSKIL 
+     # Contact: sskshuvo.cse@gmail.com
+
 
 Step1:
 
